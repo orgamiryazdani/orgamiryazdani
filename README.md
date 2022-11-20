@@ -1,4 +1,4 @@
-![MasterHead](https://media-exp1.licdn.com/dms/image/C4D16AQGd0nu_s3a7Ig/profile-displaybackgroundimage-shrink_200_800/0/1627146150510?e=2147483647&v=beta&t=KmJPXM1FmQRoCMQIQqsnUU-_b0dSJ9LNu2Y7Fo1V3Iw)
+![MasterHead](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20220416200936/Top-10-Front-End-Developer-Skills-That-You-Need-in-2022.png)
 <h1 align="center">Hi 👋, I'm Amir Yazdani</h1>
 <h3 align="center">A passionate frontend developer from Iran</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2069402/screenshots/5574718/gif-4mb.gif"/>
