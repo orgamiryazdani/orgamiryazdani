@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **NEXT.JS**
 
-- 💬 Ask me about **REACT**
+- 💬 Ask me about **REACT.JS**
 
 - 📫 How to reach me **orgamiryazdani@gmail.com**
 
