@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="left">About me :<br><br>Passionate front-end developer specializing in React and Next.js. Enthusiastic about learning new web technologies and collaborating with diverse teams on impactful projects.</h3>
+<h3 align="left">About me :<br>Passionate front-end developer specializing in React and Next.js. Enthusiastic about learning new web technologies and collaborating with diverse teams on impactful projects.</h3>
 
 ###
 
