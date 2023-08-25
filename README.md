@@ -1,26 +1,82 @@
-![MasterHead](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20220416200936/Top-10-Front-End-Developer-Skills-That-You-Need-in-2022.png)
-<h1 align="center">Hi 👋, I'm Amir Yazdani</h1>
-<h3 align="center">A passionate frontend developer from Iran</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2069402/screenshots/5574718/gif-4mb.gif"/>
+<h1 align="left">Hey 👋 What's up?</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=orgamiryazdani&label=Profile%20views&color=0e75b6&style=flat" alt="orgamiryazdani" /> </p>
+###
 
-- 🌱 I’m currently learning **NEXT.JS**
+<h4 align="left">My name is Amir and I'm a front end developer, from Iran - Shiraz</h4>
 
-- 💬 Ask me about **REACT.JS**
+###
 
-- 📫 How to reach me **orgamiryazdani@gmail.com**
+<h3 align="left">About me<br>Passionate front-end developer specializing in React and Next.js. Enthusiastic about learning new web technologies and collaborating with diverse teams on impactful projects.</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/amir-yazdani-org" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amir yazdani" height="30" width="40" /></a>
-</p>
+###
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+<h4 align="left">💬 Ask me about REACT.JS<br>📚 I'm currently learning NEXT.JS<br>📫 How to reach me orgamiryazdani@gmail.com</h4>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=orgamiryazdani&show_icons=true&locale=en&layout=compact" alt="orgamiryazdani" /></p>
+###
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=orgamiryazdani&show_icons=true&locale=en" alt="orgamiryazdani" /></p>
+<h2 align="left">I code with</h2>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=orgamiryazdani&" alt="orgamiryazdani" /></p>
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=js" height="52" alt="javascript logo"  />
+  <img width="11" />
+  <img src="https://skillicons.dev/icons?i=react" height="52" alt="react logo"  />
+  <img width="11" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="52" alt="nextjs logo"  />
+  <img width="11" />
+  <img src="https://skillicons.dev/icons?i=html" height="52" alt="html5 logo"  />
+  <img width="11" />
+  <img src="https://skillicons.dev/icons?i=css" height="52" alt="css3 logo"  />
+  <img width="11" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="52" alt="tailwindcss logo"  />
+  <img width="11" />
+  <img src="https://skillicons.dev/icons?i=git" height="52" alt="git logo"  />
+  <img width="11" />
+  <img src="https://skillicons.dev/icons?i=github" height="52" alt="github logo"  />
+  <img width="11" />
+  <img src="https://skillicons.dev/icons?i=redux" height="52" alt="redux logo"  />
+  <img width="11" />
+  <img src="https://skillicons.dev/icons?i=webpack" height="52" alt="webpack logo"  />
+  <img width="11" />
+  <img src="https://skillicons.dev/icons?i=babel" height="52" alt="babel logo"  />
+  <img width="11" />
+  <img src="https://skillicons.dev/icons?i=postman" height="52" alt="postman logo"  />
+  <img width="11" />
+  <img src="https://skillicons.dev/icons?i=vite" height="52" alt="vite logo"  />
+  <img width="11" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="52" alt="vercel logo"  />
+  <img width="11" />
+  <img src="https://skillicons.dev/icons?i=netlify" height="52" alt="netlify logo"  />
+  <img width="11" />
+  <img src="https://cdn.simpleicons.org/npm/CB3837" height="52" alt="npm logo"  />
+  <img width="11" />
+  <img src="https://cdn.simpleicons.org/trello/0052CC" height="52" alt="trello logo"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="orgamiryazdani@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="36" alt="gmail logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="36" alt="telegram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="36" alt="whatsapp logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="36" alt="instagram logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=orgamiryazdani&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=onedark&locale=en&hide_border=true&order=1" height="250" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=orgamiryazdani&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=onedark&hide_border=true&order=2" height="310" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=orgamiryazdani&locale=en&mode=daily&theme=onedark&hide_border=true&border_radius=13&order=3" height="250" alt="streak graph"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=orgamiryazdani.orgamiryazdani&left_color=slategrey&right_color=cadetblue"  />
+</div>
+
+###
