@@ -2,15 +2,15 @@
 
 ###
 
-<h4 align="left">My name is Amir and I'm a front end developer, from Iran - Shiraz</h4>
+<h3 align="left">My name is Amir and I'm a front end developer, from Iran - Shiraz</h3>
 
 ###
 
-<h3 align="left">About me<br>Passionate front-end developer specializing in React and Next.js. Enthusiastic about learning new web technologies and collaborating with diverse teams on impactful projects.</h3>
+<h3 align="left">About me :<br><br>Passionate front-end developer specializing in React and Next.js. Enthusiastic about learning new web technologies and collaborating with diverse teams on impactful projects.</h3>
 
 ###
 
-<h4 align="left">💬 Ask me about REACT.JS<br>📚 I'm currently learning NEXT.JS<br>📫 How to reach me orgamiryazdani@gmail.com</h4>
+<h3 align="left">💬 Ask me about REACT.JS<br>📚 I'm currently learning NEXT.JS<br>📫 How to reach me orgamiryazdani@gmail.com</h3>
 
 ###
 
