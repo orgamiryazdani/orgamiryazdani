@@ -57,7 +57,7 @@
 ###
 
 <div align="left">
-  <a href="orgamiryazdani@gmail.com" target="_blank">
+  <a href="mailto:orgamiryazdani@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="36" alt="gmail logo"  />
   </a>
   <a href="https://t.me/amir9yz" target="_blank">
@@ -66,7 +66,7 @@
   <a href="https://wa.me/989174510960?text=سلام، منتظر پیام شما هستم." target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="36" alt="whatsapp logo"  />
   </a>
-  <a href="https://www.instagram.com/__amiiiirr/" target="_blank">
+  <a href="https://www.instagram.com/__amiiiir/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="36" alt="instagram logo"  />
   </a>
 </div>
