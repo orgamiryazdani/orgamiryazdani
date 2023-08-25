@@ -10,7 +10,7 @@
 
 ###
 
-<h3 align="left">💬 Ask me about REACT.JS<br>📚 I'm currently learning NEXT.JS<br>📫 How to reach me orgamiryazdani@gmail.com</h3>
+<h3 align="left">💬 Ask me about REACT.JS<br>📚 I'm currently learning NEXT.JS<br>📫 How to reach me <a href="mailto:orgamiryazdani@gmail.com" target="_blank">orgamiryazdani@gmail.com</a></h3>
 
 ###
 
