@@ -81,6 +81,12 @@
 
 ###
 
+###
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="amir-yazdanii" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ir.linkedin.com/in/amir-yazdanii?trk=profile-badge">Amir Yazdani</a>
+</div>
+###
+
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=orgamiryazdani.orgamiryazdani&left_color=slategrey&right_color=cadetblue"  />
 </div>
