@@ -10,7 +10,7 @@
 
 ###
 
-<h3 align="left">💬 Ask me about REACT.JS<br>📚 I'm currently learning NEXT.JS<br>📫 How to reach me <a href="mailto:orgamiryazdani@gmail.com" target="_blank">orgamiryazdani@gmail.com</a></h3>
+<h3 align="left">📫 How to reach me <a href="mailto:orgamiryazdani@gmail.com" target="_blank">orgamiryazdani@gmail.com</a></h3>
 
 ###
 
@@ -36,22 +36,6 @@
   <img src="https://skillicons.dev/icons?i=github" height="52" alt="github logo"  />
   <img width="11" />
   <img src="https://skillicons.dev/icons?i=redux" height="52" alt="redux logo"  />
-  <img width="11" />
-  <img src="https://skillicons.dev/icons?i=webpack" height="52" alt="webpack logo"  />
-  <img width="11" />
-  <img src="https://skillicons.dev/icons?i=babel" height="52" alt="babel logo"  />
-  <img width="11" />
-  <img src="https://skillicons.dev/icons?i=postman" height="52" alt="postman logo"  />
-  <img width="11" />
-  <img src="https://skillicons.dev/icons?i=vite" height="52" alt="vite logo"  />
-  <img width="11" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="52" alt="vercel logo"  />
-  <img width="11" />
-  <img src="https://skillicons.dev/icons?i=netlify" height="52" alt="netlify logo"  />
-  <img width="11" />
-  <img src="https://cdn.simpleicons.org/npm/CB3837" height="52" alt="npm logo"  />
-  <img width="11" />
-  <img src="https://cdn.simpleicons.org/trello/0052CC" height="52" alt="trello logo"  />
 </div>
 
 ###
@@ -62,12 +46,6 @@
   </a>
   <a href="mailto:orgamiryazdani@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="36" alt="gmail logo"  />
-  </a>
-  <a href="https://t.me/amiiiirryz" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="36" alt="telegram logo"  />
-  </a>
-  <a href="https://wa.me/989174510960?text=سلام، منتظر پیام شما هستم." target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="36" alt="whatsapp logo"  />
   </a>
 </div>
 
